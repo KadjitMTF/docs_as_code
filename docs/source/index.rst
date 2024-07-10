@@ -1,22 +1,55 @@
-Welcome to Lumache's documentation!
-===================================
+Заголовок текста
+================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Подзаголовок 1
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+ТЕКСТ ТЕКСТ ТЕКСТ ТЕКСТ
 
-.. note::
+Подзаголовок 2
 
-   This project is under active development.
+ТЕКСТ ТЕКСТ ТЕКСТ
 
-Contents
---------
+КАРТИНКА
 
-.. toctree::
+|image1|
 
-   usage
-   api
+Подзаголовок 3
+
+ТЕКСТ ТЕКСТ ТЕКСТ
+
+ЗАГОЛОВОК 2 ДЛЯ СПИСКА
+----------------------
+
+1. Первый
+
+2. Второй
+
+3. Третий
+
+4. Какашка
+
+Заголовок 3 для списка
+~~~~~~~~~~~~~~~~~~~~~~
+
+-  Точка раз
+
+-  Точка два
+
+-  Точка три
+
+ТАБЛИЦА!!!!
+-----------
+
++-----------------+-----------------+-----------------+-----------------+
+| Первый столбец  | ЧИСЛО 1         | Число 2         | ЧИСЛО 3         |
++=================+=================+=================+=================+
+| ЧТо-то          | 1               | 2               | 3               |
++-----------------+-----------------+-----------------+-----------------+
+| Кто-то          | Он              | она             | они             |
++-----------------+-----------------+-----------------+-----------------+
+| Куда-то         | Туда            | Сюда            | Вон             |
++-----------------+-----------------+-----------------+-----------------+
+
+.. |image1| image:: ./media/image1.jpg
+   :width: 6.26772in
+   :height: 3.91667in
